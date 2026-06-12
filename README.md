@@ -1,28 +1,41 @@
 # jw-gpt
-study coding
-Coding Study Project
+AI Trading Assistant
+Introduction
 
-##Introduction
-This project is designed to help learners improve their programming skills, from basic coding concepts to practical software development. Through hands-on exercises, sample code, and small projects, users can build problem-solving abilities and gain real-world coding experience.
+AI Trading Assistant is an open-source trading support tool designed to help investors analyze market information more efficiently.
 
-##Key Features
-Learn programming fundamentals
-Practice with coding exercises and examples
-Study algorithms and data structures
-Improve code quality through review and refactoring
-Learn version control with Git and GitHub
+The project combines market data, technical indicators, and AI-powered summaries to reduce the time required for research and decision preparation.
 
-##How to Use
-Download or clone the repository.
-Set up the required development environment.
-Run the example programs and follow the tutorials.
-Complete the practice exercises.
-Apply your knowledge by building your own projects.
-Learning Goals
-Understand core programming concepts
-Develop problem-solving skills
-Gain experience with development tools
-Build confidence in software development
+Developed by a non-CS student interested in financial markets and AI, the goal is to make trading research more accessible and efficient for individual investors.
 
-##License
+Key Features
+AI-powered market news summarization
+Technical indicator analysis
+Trading journal generation
+Watchlist monitoring
+Risk management insights
+Prompt templates for investment research
+Why This Project?
+
+As a humanities student learning programming, I discovered that coding can solve real-world problems beyond software development.
+
+While studying investing and trading, I noticed that a significant amount of time was spent gathering information from multiple sources.
+
+This project aims to automate parts of that workflow and help users focus on analysis rather than repetitive research tasks.
+
+Roadmap
+v1
+News summarizer
+Trading journal generator
+Watchlist manager
+v2
+GPT-based market assistant
+Technical analysis dashboard
+Portfolio tracking
+v3
+Multi-market support
+Mobile dashboard
+Community prompts
+License
+
 MIT License
